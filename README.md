@@ -93,4 +93,6 @@ cupify/
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
-``` 
+```
+
+![Cup Detection Demo](https://github.com/sanepunk/cup-detection/blob/main/Output.mp4)
