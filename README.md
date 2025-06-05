@@ -95,4 +95,4 @@ cupify/
 └── README.md
 ```
 
-![Cup Detection Demo](https://github.com/sanepunk/cup-detection/raw/refs/heads/main/Output.mp4)
+![Cup Detection Demo](https://github.com/sanepunk/cup-detection/raw/main/Output.mp4)
